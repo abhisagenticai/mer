@@ -1,8 +1,0 @@
-streamlit
-tensorflow
-librosa
-soundfile
-matplotlib
-numpy
-pillow
-gdown
